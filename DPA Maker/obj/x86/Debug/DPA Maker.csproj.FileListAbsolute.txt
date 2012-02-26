@@ -1,0 +1,14 @@
+c:\users\josh stuible\documents\visual studio 2010\Projects\DPA Maker\DPA Maker\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\josh stuible\documents\visual studio 2010\Projects\DPA Maker\DPA Maker\obj\x86\Debug\DPA_Maker.Form1.resources
+c:\users\josh stuible\documents\visual studio 2010\Projects\DPA Maker\DPA Maker\obj\x86\Debug\DPA_Maker.Properties.Resources.resources
+c:\users\josh stuible\documents\visual studio 2010\Projects\DPA Maker\DPA Maker\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\josh stuible\documents\visual studio 2010\Projects\DPA Maker\DPA Maker\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\josh stuible\documents\visual studio 2010\Projects\DPA Maker\DPA Maker\bin\Debug\DPA Maker.exe
+c:\users\josh stuible\documents\visual studio 2010\Projects\DPA Maker\DPA Maker\bin\Debug\DPA Maker.pdb
+c:\users\josh stuible\documents\visual studio 2010\Projects\DPA Maker\DPA Maker\obj\x86\Debug\DPA Maker.exe
+c:\users\josh stuible\documents\visual studio 2010\Projects\DPA Maker\DPA Maker\obj\x86\Debug\DPA Maker.pdb
+c:\users\josh stuible\documents\visual studio 2010\Projects\DPA Maker\DPA Maker\obj\x86\Debug\DPA Maker.csproj.ResolveComReference.cache
+C:\Users\Josh Stuible\documents\visual studio 2010\Projects\DPA Maker\DPA Maker\obj\x86\Debug\DPA_Maker.AboutBox1.resources
+C:\Users\Josh Stuible\documents\visual studio 2010\Projects\DPA Maker\DPA Maker\obj\x86\Debug\DPA_Maker.loadingscreen1.resources
+C:\Users\Josh Stuible\Documents\Visual Studio 2010\Projects\DPA Maker\DPA Maker\bin\Debug\raleway_thin.ttf
+C:\Users\Josh Stuible\Documents\Visual Studio 2010\Projects\DPA Maker\DPA Maker\bin\Debug\Term_2_ DPA.xls
